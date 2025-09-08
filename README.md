@@ -41,9 +41,8 @@
 
 ### ⚡ Activity Graph
 [![PRANAV-SINGH-CSE's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PRANAV-SINGH-CSE&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%" />
-</p>
+![Bottom Header](https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg)
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pranav.12_12) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pranavsinghkia@gmail.com) 
 <!-- ANIMATION -->
