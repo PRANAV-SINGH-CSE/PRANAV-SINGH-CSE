@@ -40,7 +40,7 @@
 
 ## 📊 GitHub Analytics & Achievements 🚀
 
-![](https://github-readme-stats-weld-nine-27.vercel.app/api?username=PRANAV-SINGH-CSE&theme=radical&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)<br/>
+![](github-readme-stats-l16x.vercel.app)<br/>
 ![](https://github-readme-stats-weld-nine-27.vercel.app/api/top-langs/?username=PRANAV-SINGH-CSE&theme=radical&hide_border=false&layout=compact&langs_count=10&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=PRANAV-SINGH-CSE&theme=radical&hide_border=false)<br/>
 
